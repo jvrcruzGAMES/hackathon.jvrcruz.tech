@@ -1,0 +1,19 @@
+
+
+button {
+    background-color: #0099e6; 
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+
+video {
+    width: 60%;
+    height: 40%;
+}
