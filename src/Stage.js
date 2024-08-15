@@ -77,7 +77,7 @@ const Stage = ({ change, stage }) => {
                 <p>
                     Please check if this video solves your problem.
                 </p>
-                <video src="/tutorial.mp4" controls onEnded={() => setVideoEnded(true)}></video>
+                <video src="https://public-blob.squarecloud.dev/705182970704822404/tutorial_lzvlaq7v-4bee-ex180.mp4" controls onEnded={() => setVideoEnded(true)}></video>
                 <VideoStageFinish setStage={setStage} videoEnded={videoEnded} />
             </div>
         );
